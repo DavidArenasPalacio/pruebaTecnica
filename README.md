@@ -11,7 +11,7 @@ versión de PHP: php 8.2
 
 ## Instructivo para compilar el proyecto
 
-1. Clona el repositorio en tu máquina local, preferiblemente en xampp (htdocs):
+1. Clona el repositorio, preferiblemente en xampp (htdocs) en el servidor de PHP:
 
 ```sh
 git clone https://github.com/DavidArenasPalacio/pruebaTecnica.git
