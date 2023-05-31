@@ -1,0 +1,6 @@
+id,actividad_id,objeto,descripcion,moneda,presupuesto,fecha_inicio,fecha_cierre,estado
+1,1,Objecto,xxxxxx,USD,1,2023-05-18 17:11:00,2023-05-30 00:00:00,1
+2,5,Objecto2,xxxxxxxxx,EUR,1,2023-05-18 17:11:00,2023-06-01 18:16:00,1
+3,5,Objecto2,xxxxxxxxx,EUR,1,2023-05-18 17:11:00,2023-06-01 18:16:00,1
+4,5,Objecto2,xxxxxxxxx,EUR,22333,2023-05-18 17:11:00,2023-06-01 18:16:00,1
+5,3,Objetoo,xxxxxxxx,USD,500000,2023-05-30 19:29:00,2023-05-30 17:29:00,1

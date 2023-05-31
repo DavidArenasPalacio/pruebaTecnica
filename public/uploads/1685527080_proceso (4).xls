@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>ID oferta</b></th><th><b>Objeto</b></th><th><b>Actividad</b></th><th><b>Descripción</b></th><th><b>Moneda</b></th><th><b>Presupuesto</b></th><th><b>Fecha de inicio</b></th><th><b>hora de inicio</b></th><th><b>Fecha  cierre</b></th><th><b>Estado</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>3</td><td>Objetoo</td><td>Material Vivo Vegetal y Animal, Accesorios y Suministros</td><td>xxxxxxxx</td><td>USD</td><td>500000</td><td>2023-05-30</td><td>19:29:00</td><td>2023-05-30 17:29:00</td><td>Activo</td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >

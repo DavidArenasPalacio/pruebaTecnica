@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>ID oferta</b></th><th><b>Objeto</b></th><th><b>Actividad</b></th><th><b>Descripción</b></th><th><b>Moneda</b></th><th><b>Presupuesto</b></th><th><b>Fecha inicio</b></th><th><b>Fecha  cierre</b></th><th><b>Estado</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>1</td><td>Objecto</td><td>10</td><td>xxxxxx</td><td>USD</td><td>1</td><td>2023-05-18 17:11:00</td><td>2023-05-30 00:00:00</td><td>Activo</td></tr>
+        <tr><td>5</td><td>Objecto2</td><td>10</td><td>xxxxxxxxx</td><td>EUR</td><td>1</td><td>2023-05-18 17:11:00</td><td>2023-06-01 18:16:00</td><td>Activo</td></tr>
+        <tr><td>5</td><td>Objecto2</td><td>10</td><td>xxxxxxxxx</td><td>EUR</td><td>1</td><td>2023-05-18 17:11:00</td><td>2023-06-01 18:16:00</td><td>Activo</td></tr>
+        <tr><td>5</td><td>Objecto2</td><td>10</td><td>xxxxxxxxx</td><td>EUR</td><td>22333</td><td>2023-05-18 17:11:00</td><td>2023-06-01 18:16:00</td><td>Activo</td></tr>
+        <tr><td>3</td><td>Objetoo</td><td>10</td><td>xxxxxxxx</td><td>USD</td><td>500000</td><td>2023-05-30 19:29:00</td><td>2023-05-30 17:29:00</td><td>Activo</td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >

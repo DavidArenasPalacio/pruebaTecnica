@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>ID oferta</b></th><th><b>Objeto</b></th><th><b>Actividad</b></th><th><b>Descripción</b></th><th><b>Moneda</b></th><th><b>Presupuesto</b></th><th><b>Fecha de inicio</b></th><th><b>hora de inicio</b></th><th><b>Fecha  cierre</b></th><th><b>Estado</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>1</td><td>Objecto</td><td>Material Vivo Vegetal y Animal, Accesorios y Suministros</td><td>xxxxxx</td><td>USD</td><td>1</td><td>2023-05-18</td><td>17:11:00</td><td>2023-05-30 00:00:00</td><td>Evaluación</td></tr>
+        <tr><td>6</td><td>Prueba</td><td>Material Vivo Vegetal y Animal, Accesorios y Suministros</td><td> eos pariatur nesciunt perspiciatis possimus sit ut ipsam aut. Reiciendis laboriosam dolores quas dolor quisquam nobis porro aspernatur adipisci dolorum tempora</td><td>EUR</td><td>60000000</td><td>2023-05-29</td><td>22:18:00</td><td>2023-05-29 23:00:00</td><td>Evaluación</td></tr>
+        <tr><td>7</td><td>Objeto prueba</td><td>Material Vivo Vegetal y Animal, Accesorios y Suministros </td><td>Titulo de prueba</td><td>EUR</td><td>30000</td><td>2023-05-30</td><td>03:29:00</td><td>2023-05-30 04:04:00</td><td>Evaluación</td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >
